@@ -5,6 +5,7 @@ import ExpenseDashboardPage from "../components/ExpenseDashboardPage";
 import HelpPage from "../components/HelpPage";
 import Header from "../components/Header";
 import NotFoundPage from "../components/NotFoundPage";
+import LoginPage from "../components/LoginPage";
 import { BrowserRouter, Route, Switch, Link, NavLink } from "react-router-dom";
 
 const AppRouter = () => (
